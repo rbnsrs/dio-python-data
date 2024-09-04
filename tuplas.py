@@ -27,3 +27,4 @@ print(tuple[0:3:2])
 print(tuple[::])
 print(tuple[::-1])
 
+# Métodos usados nas tuplas: count, index, len
